@@ -1,2 +1,4 @@
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1, task, 2e38b70, closeed, Task 1, , Christian, 11-Feb, 5-Feb
+1, task, 2e38b70, closed, Task 1, , Christian, 11-Feb, 5-Feb, 10-Feb
+2, task, , closed, Task Chris Task B, , Christian, 11-Feb, 5-Feb, 11-Feb
+
