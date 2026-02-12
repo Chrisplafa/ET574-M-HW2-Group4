@@ -1,7 +1,5 @@
 print("Christian Task A")
 print("Alonzo Task A")
 print("Reagan Task B")
-print("Alonzo Task B")
 print("Christian Task B")
 print("Christian Task C")
-print("Alonzo Task C")
